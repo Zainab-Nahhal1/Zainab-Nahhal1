@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<!--
-**Zainab-Nahhal1/Zainab-Nahhal1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 - 🌱 I’m currently learning Deep Learning,AI agents,and Machine Learning.
